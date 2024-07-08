@@ -1,3 +1,3 @@
-# Clean and Maintainable Code
+# Recursion Optimization
 
-[Lesson slides (spanish)](https://ravenhill.pages.dev/ccxxxx/lessons/codigo-limpio-y-mantenible)
+[Lesson slides (spanish)](https://ravenhill.pages.dev/ccxxxx/lessons/recursion-optimization)

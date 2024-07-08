@@ -2,6 +2,7 @@ rootProject.name = "recursion-optimization-kt"
 
 include(
     ":tailrec",
+    ":trampoline"
 )
 
 pluginManagement {

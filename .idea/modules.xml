@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tailrec/recursion-optimization-kt.tailrec.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tailrec/recursion-optimization-kt.tailrec.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trampoline/recursion-optimization-kt.trampoline.main.iml" filepath="$PROJECT_DIR$/.idea/modules/trampoline/recursion-optimization-kt.trampoline.main.iml" />
     </modules>
   </component>
 </project>
